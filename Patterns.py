@@ -1,4 +1,4 @@
-passw="Dr_18112009"
+passw=input("Set a Password: ")
 for l in range(3):
     enter=input("Enter Password: ")
     if passw==enter:
