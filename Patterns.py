@@ -1,5 +1,5 @@
 for i in range(5):
-    print("*")
+    print("*", end=' ')
     for j in range(i):
         print("*", end=' ')
     print()
